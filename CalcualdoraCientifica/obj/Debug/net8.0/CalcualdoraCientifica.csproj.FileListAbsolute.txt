@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\source\repos\CalcualdoraCientifica\CalcualdoraCientifica\bin\Debug\net8.0\CalcualdoraCientifica.deps.json
+C:\Users\SENAI3EM\source\repos\CalcualdoraCientifica\CalcualdoraCientifica\bin\Debug\net8.0\CalcualdoraCientifica.dll
+C:\Users\SENAI3EM\source\repos\CalcualdoraCientifica\CalcualdoraCientifica\bin\Debug\net8.0\CalcualdoraCientifica.pdb
+C:\Users\SENAI3EM\source\repos\CalcualdoraCientifica\CalcualdoraCientifica\obj\Debug\net8.0\CalcualdoraCientifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\source\repos\CalcualdoraCientifica\CalcualdoraCientifica\obj\Debug\net8.0\CalcualdoraCientifica.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\source\repos\CalcualdoraCientifica\CalcualdoraCientifica\obj\Debug\net8.0\CalcualdoraCientifica.AssemblyInfo.cs
+C:\Users\SENAI3EM\source\repos\CalcualdoraCientifica\CalcualdoraCientifica\obj\Debug\net8.0\CalcualdoraCientifica.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\source\repos\CalcualdoraCientifica\CalcualdoraCientifica\obj\Debug\net8.0\CalcualdoraCientifica.dll
+C:\Users\SENAI3EM\source\repos\CalcualdoraCientifica\CalcualdoraCientifica\obj\Debug\net8.0\refint\CalcualdoraCientifica.dll
+C:\Users\SENAI3EM\source\repos\CalcualdoraCientifica\CalcualdoraCientifica\obj\Debug\net8.0\CalcualdoraCientifica.pdb
+C:\Users\SENAI3EM\source\repos\CalcualdoraCientifica\CalcualdoraCientifica\obj\Debug\net8.0\ref\CalcualdoraCientifica.dll
