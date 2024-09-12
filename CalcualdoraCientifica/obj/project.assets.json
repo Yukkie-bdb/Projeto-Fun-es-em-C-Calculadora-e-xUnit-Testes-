@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENAI3EM\\source\\repos\\CalcualdoraCientifica\\CalcualdoraCientifica\\CalcualdoraCientifica.csproj",
+      "projectUniqueName": "C:\\Users\\SENAI3EM\\Desktop\\DEletar\\Projeto-Fun-es-em-C-Calculadora-e-xUnit-Testes-\\CalcualdoraCientifica\\CalcualdoraCientifica.csproj",
       "projectName": "CalcualdoraCientifica",
-      "projectPath": "C:\\Users\\SENAI3EM\\source\\repos\\CalcualdoraCientifica\\CalcualdoraCientifica\\CalcualdoraCientifica.csproj",
+      "projectPath": "C:\\Users\\SENAI3EM\\Desktop\\DEletar\\Projeto-Fun-es-em-C-Calculadora-e-xUnit-Testes-\\CalcualdoraCientifica\\CalcualdoraCientifica.csproj",
       "packagesPath": "C:\\Users\\SENAI3EM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENAI3EM\\source\\repos\\CalcualdoraCientifica\\CalcualdoraCientifica\\obj\\",
+      "outputPath": "C:\\Users\\SENAI3EM\\Desktop\\DEletar\\Projeto-Fun-es-em-C-Calculadora-e-xUnit-Testes-\\CalcualdoraCientifica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

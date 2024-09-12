@@ -5,22 +5,22 @@ namespace CalculadoraTests
         [Fact]
         public void Somar()
         {
-            Assert.Equal(4, CalcualdoraCientifica.Formulas.Somar(2, 2));
+            Assert.Equal(50, CalcualdoraCientifica.Formulas.Somar(25, 25));
         }
         [Fact]
         public void Subtrair()
         {
-            Assert.Equal(0, CalcualdoraCientifica.Formulas.Subtrair(2, 2));
+            Assert.Equal(75, CalcualdoraCientifica.Formulas.Subtrair(200, 125));
         }
         [Fact]
         public void Dividir()
         {
-            Assert.Equal(1, CalcualdoraCientifica.Formulas.Dividir(2, 2));
+            Assert.Equal(27, CalcualdoraCientifica.Formulas.Dividir(81, 3));
         }
         [Fact]
         public void Multiplicar()
         {
-            Assert.Equal(4, CalcualdoraCientifica.Formulas.Multiplicar(2, 2));
+            Assert.Equal(552, CalcualdoraCientifica.Formulas.Multiplicar(69, 8));
         }
     }
 }

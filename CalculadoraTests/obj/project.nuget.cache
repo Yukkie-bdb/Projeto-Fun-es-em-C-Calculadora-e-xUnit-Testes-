@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y4PvRWfuVR4=",
+  "dgSpecHash": "j36KOVibqrk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SENAI3EM\\source\\repos\\CalcualdoraCientifica\\CalculadoraTests\\CalculadoraTests.csproj",
+  "projectFilePath": "C:\\Users\\SENAI3EM\\Desktop\\DEletar\\Projeto-Fun-es-em-C-Calculadora-e-xUnit-Testes-\\CalculadoraTests\\CalculadoraTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SENAI3EM\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\SENAI3EM\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
